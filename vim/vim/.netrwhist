@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/colbot/pano/enblend/src'
+let g:netrw_dirhist_2='/etc/crtmpserver/applications'
+let g:netrw_dirhist_3='/etc/crtmpserver'
+let g:netrw_dirhist_4='/home/colbot/.android'
+let g:netrw_dirhist_5='/e/gitpages/source/_posts'
+let g:netrw_dirhist_6='/e/workspace/obs-studio/cmake'
